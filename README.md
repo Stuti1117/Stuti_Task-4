@@ -6,7 +6,7 @@ Spam message classification using Python and machine learning.
 ## Task Information
 - **Task Number:** Task 4
 - **Project Name:** Spam Message Classification
-- **Author:** Pranav Panara
+- **Author:** Stuti Bakrania
 
 ---
 
@@ -49,6 +49,8 @@ The dataset contains:
 - `Stuti_Task4.ipynb`
 - `Spam_Dataset.csv`
 - `README.md`
+- ![Screenshot](Task_4_ss-1.png)
+- ![Screenshot](Task_4_ss-2.png)
 
 ---
 
@@ -57,7 +59,7 @@ The machine learning model classifies SMS messages as spam or non-spam (ham).
 
 ---
 
-## GitHub Repository
-Project submitted through GitHub repository as per submission instructions.
+## Output Screenshot
 
----
+![Screenshot](Task_4_ss-1.png)
+![Screenshot](Task_4_ss-2.png)
